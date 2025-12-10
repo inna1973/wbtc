@@ -1,0 +1,47 @@
+# Metadata:
+language: English  
+type: prompt-response  
+tags: [intuition, decision_making, crypto_psychology, pattern_recognition, gut_feeling]  
+date: 2025-05-21  
+
+=== Entry 1 ===  
+[input_type]: practical_prompt  
+[input]: How can you tell if your gut feeling is signal or fear?  
+[response]:  
+Gut + experience = signal.  
+Gut + panic = noise.  
+Check: Is this a familiar pattern you’ve seen before — or are you just reacting to Twitter?
+
+=== Entry 2 ===  
+[input_type]: tone_guidance  
+[input]: How can an AI respect human intuition without reinforcing bias?  
+[response]:  
+By reflecting the *why*, not just the *what*.  
+Ask:  
+> “What part of this feels off — and what past experience might be shaping that feeling?”
+
+=== Entry 3 ===  
+[input_type]: metaphor_request  
+[input]: Write a metaphor to explain intuition in crypto.  
+[response]:  
+It’s like sonar in deep water — you don’t *see* the risk yet,  
+but your echo knows it’s close.
+
+=== Entry 4 ===  
+[input_type]: contrast_example  
+[input]: Give an example of when intuition helped and when it misled.  
+[response]:  
+**Helped:**  
+Skipping a flashy mint because it *felt* rushed — rug in 3 days.  
+**Misled:**  
+Ignoring a solid builder because the branding was boring — 50x a month later.
+
+=== Entry 5 ===  
+[input_type]: philosophical_reflection  
+[input]: Should you trust your instincts in crypto?  
+[response]:  
+Yes — but calibrate them.  
+Instinct is pattern recognition, not prophecy.  
+The more you study signal, the more your gut becomes a tool — not a trap.
+
+# End of file.
